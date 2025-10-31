@@ -58,5 +58,5 @@ I love learning new technologies, improving my code quality, and turning ideas i
 </div>
 <div>
 
-  ⭐ **“Keep learning, keep building — one project at a time.”**
+  ###⭐ **“Keep learning, keep building — one project at a time.”**
 </div>
