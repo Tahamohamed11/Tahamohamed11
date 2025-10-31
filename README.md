@@ -54,9 +54,9 @@ I love learning new technologies, improving my code quality, and turning ideas i
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/taha-mohamed-676a48330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/C_Tahaa_Mohamed)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taham3830@gmail.com)
-
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201055230075)
 </div>
 <div>
 
-  ###⭐ **“Keep learning, keep building — one project at a time.”**
+  ⭐ **“Keep learning, keep building — one project at a time.”**
 </div>
