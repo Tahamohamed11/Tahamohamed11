@@ -34,6 +34,57 @@ I love learning new technologies, improving my code quality, and turning ideas i
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)
 
+
+
+
+<div align="center">
+
+## 🧠 My Tech Stack
+
+---
+
+### ⚙️ **Backend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
+</p>
+
+### 🎨 **Frontend Basics**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
+
+### 🗄️ **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase,redis" />
+</p>
+
+### 🧰 **Development Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,composer" />
+</p>
+
+### 🐳 **DevOps & Environment**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,vercel,netlify" />
+</p>
+
+### 📦 **Package Managers**
+<p>
+  <img src="https://skillicons.dev/icons?i=composer,npm,yarn" />
+</p>
+
+### 🧪 **Testing & APIs**
+<p>
+  <img src="https://skillicons.dev/icons?i=swagger,postman" />
+</p>
+
+---
+
+⭐ <b>"Building efficient, scalable, and secure backend systems — one line of code at a time."</b>
+
+</div>
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
