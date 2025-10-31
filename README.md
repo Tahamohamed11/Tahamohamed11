@@ -1,8 +1,9 @@
 # Hey there, I'm [Taha Moahmed]() 👋
 
-** Web Developer · PHP Learner · Future Laravel Engineer ⚡ CS Student · Coffee Lover ☕**
+<div align="center">
 
-💼 **Current:** Building my skills in PHP and preparing to move into Laravel development.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Taha+Mohamed%E2%9A%99%EF%B8%8F;Web+Developer+%7C+PHP+Learner+%7C+Future+Laravel+Engineer;CS+Student+%7C+Coffee+Lover+%E2%98%95;Passionate+About+Building+Modern+Web+Apps+%F0%9F%94%A5)
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tahamohamed11&style=for-the-badge" alt="Profile Views"/>
@@ -37,48 +38,62 @@ I love learning new technologies, improving my code quality, and turning ideas i
 
 
 
+
+## 🧠 Technical Arsenal  
+
 <div align="center">
 
-## 🧠 My Tech Stack
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>⚙️ Backend Development</h3>
+      <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" /><br/>
+      <sub>Building dynamic, secure, and scalable applications</sub>
+    </td>
+    <td align="center" width="50%">
+      <h3>🎨 Frontend Basics</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,javascript" /><br/>
+      <sub>Crafting responsive and elegant user interfaces</sub>
+    </td>
+  </tr>
 
----
+  <tr>
+    <td align="center" width="50%">
+      <h3>🗄️ Databases</h3>
+      <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase,redis" /><br/>
+      <sub>Efficient data storage & cloud-backed structure</sub>
+    </td>
+    <td align="center" width="50%">
+      <h3>🧰 Development Tools</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /><br/>
+      <sub>Tools that power up my workflow</sub>
+    </td>
+  </tr>
 
-### ⚙️ **Backend Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
-</p>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🐳 DevOps & Deployment</h3>
+      <img src="https://skillicons.dev/icons?i=docker,vercel,netlify" /><br/>
+      <sub>Containerization & hosting for modern web apps</sub>
+    </td>
+    <td align="center" width="50%">
+      <h3>📦 Package Managers</h3>
+      <img src="https://skillicons.dev/icons?i=composer,npm,yarn" /><br/>
+      <sub>Dependency management made simple</sub>
+    </td>
+  </tr>
 
-### 🎨 **Frontend Basics**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
-</p>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>📚 Other Languages</h3>
+      <img src="https://skillicons.dev/icons?i=java,python,c,cpp" /><br/>
+      <sub>Exploring different programming paradigms</sub>
+    </td>
+  </tr>
+</table>
 
-### 🗄️ **Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase,redis" />
-</p>
+</div>
 
-### 🧰 **Development Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,composer" />
-</p>
-
-### 🐳 **DevOps & Environment**
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,vercel,netlify" />
-</p>
-
-### 📦 **Package Managers**
-<p>
-  <img src="https://skillicons.dev/icons?i=composer,npm,yarn" />
-</p>
-
-### 🧪 **Testing & APIs**
-<p>
-  <img src="https://skillicons.dev/icons?i=swagger,postman" />
-</p>
-
----
 
 ⭐ <b>"Building efficient, scalable, and secure backend systems — one line of code at a time."</b>
 
